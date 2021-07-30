@@ -5,6 +5,6 @@ bash```
 pip install -r requirements.txt
 ```
 Run
-bash''' 
+bash``` 
 streamlit run app.py
 ```
